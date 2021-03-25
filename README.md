@@ -1,4 +1,4 @@
-## Hi, I'm Sagar Sharma
+
 ## This is my new project called **_Battery Status_**. 
 
 <br>
